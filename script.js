@@ -1,5 +1,4 @@
 function buyProduct(productName) {
   alert("You clicked Buy for " + productName + "!");
-  // Later you can replace this with a real payment integration (Stripe/PayPal)
+  // Later you can integrate Stripe or PayPal here
 }
-
